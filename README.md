@@ -1,5 +1,5 @@
-# Pr-ctica-1
-ItzelAvila
+#PRÁCTICA 1
+#Avila Estévez Itzel Berenice
 def es_secuencia_bien_formada(cadena):
     pila = []
     for caracter in cadena:
@@ -17,4 +17,4 @@ cadena = input("Ingrese una secuencia de paréntesis: ")
 if es_secuencia_bien_formada(cadena):
     print("La secuencia de paréntesis está bien formada.")
 else:
-    print("La secuencia de paréntesis NO está bien formada.") 
+    print("La secuencia de paréntesis NO está bien formada.")
